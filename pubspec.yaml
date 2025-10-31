@@ -1,0 +1,9 @@
+name: my_app
+description: A new Flutter project
+
+environment:
+  sdk: '^3.9.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
